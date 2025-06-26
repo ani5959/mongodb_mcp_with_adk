@@ -1,4 +1,4 @@
-This project provides a server application that integrates **MongoDB Atlas** with the **Application Development Kit (ADK)**. It enables secure, scalable, and efficient data management through RESTful APIs, leveraging service account authentication and robust error handling. The server is designed to accelerate development workflows by simplifying integration with MongoDB Atlas and providing a ready-to-use backend for your applications.
+This project provides a server application that integrates **MongoDB Atlas** with the **Application Development Kit (ADK)** using mongodb-mcp-server. It enables secure, scalable, and efficient data management through RESTful APIs, leveraging service account authentication and robust error handling. The server is designed to accelerate development workflows by simplifying integration with MongoDB Atlas and providing a ready-to-use backend for your applications.
 
 ---
 
